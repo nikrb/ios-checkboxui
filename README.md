@@ -8,6 +8,7 @@ simple checkbox for iOS
 2. set label class to CheckboxUI
 3. leave label text so you can see where the label is
 4. size label appropriate
+5. ensure user interaction enabled is true
 
 ## Usage
 
